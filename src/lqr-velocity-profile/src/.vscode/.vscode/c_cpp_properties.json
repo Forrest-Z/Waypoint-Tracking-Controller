@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "linux-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/opt/ros/noetic/include",
+        "~/catkin_ws/devel/include",
+        "/usr/include/eigen3",
+        "/usr/include/suitesparse"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c11",
+      "cppStandard": "c++14",
+      "intelliSenseMode": "linux-gcc-x64",
+      "compilerArgs": []
+    }
+  ],
+  "version": 4
+}
